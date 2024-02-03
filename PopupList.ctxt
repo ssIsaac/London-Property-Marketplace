@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PopupList
+comment0.text=\n\ Popup\ for\ a\ selected\ listing\n\n\ @author\ Max\ Chang\n\ @version\ 30.03.2022\n
+comment1.params=listLayout
+comment1.target=PopupList(javafx.scene.layout.VBox)
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\n\ Displays\ listing\n
+numComments=3

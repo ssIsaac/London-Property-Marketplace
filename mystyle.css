@@ -1,0 +1,38 @@
+.label{
+    -fx-padding: 5;
+    -fx-font: 14px "Lucida Sans Unicode";
+}
+.choice-box{
+    -fx-pref-width: 80px;
+}
+.button{
+    -fx-padding: 5 24;
+    -fx-font: 20px "Arial";
+    -fx-opacity: 0.8;
+    -fx-pref-width: 80px;
+    -fx-pref-height: 14px;
+}
+#top{
+    -fx-padding: 7;
+}
+#bottom{
+    -fx-padding: 7;
+}
+
+<<<<<<< Updated upstream
+.text-area{
+    -fx-padding: 10;
+    -fx-pref-height: 500px;
+    -fx-pref-width: 700px;  
+}
+
+.text-field{
+    -fx-padding:5;
+}
+
+.myButton{
+    -fx-padding: 10;
+    -fx-spacing: 30;
+}
+=======
+>>>>>>> Stashed changes

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SignUpForm
+comment1.params=
+comment1.target=void\ display()
+comment1.text=\n\ \n
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ createSignUpForm()
+comment2.text=\n\ \n
+comment3.params=gridPane
+comment3.target=void\ controller(javafx.scene.layout.GridPane)
+comment3.text=\n\ \n
+comment4.params=event
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment5.params=alertType\ owner\ title\ message
+comment5.target=void\ displayAlert(javafx.scene.control.Alert.AlertType,\ javafx.stage.Window,\ java.lang.String,\ java.lang.String)
+numComments=6

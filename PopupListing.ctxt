@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PopupListing
+comment0.text=\n\ Popup\ for\ ListView\ of\ all\ listings\ with\ sorting\ functionalities.\n
+comment1.params=detailedText
+comment1.target=PopupListing(javafx.scene.text.Text)
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\n\ Displays\ listings\n
+numComments=3

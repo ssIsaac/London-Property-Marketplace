@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ChatBot
+comment0.text=\n\ Write\ a\ description\ of\ class\ chatbot\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ChatBot()
+comment1.text=\n\ \n
+comment2.params=arg0
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=string
+comment3.target=void\ robot(java.lang.String)
+comment4.params=
+comment4.target=void\ main()
+comment4.text=\n\ MAIN\ METHOD\n
+numComments=5

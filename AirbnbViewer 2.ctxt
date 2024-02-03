@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AirbnbViewer
+comment0.text=\n\ Write\ a\ description\ of\ JavaFX\ class\ AirbnbViewer\ here.\n\n\ @author\ Shih-Hung\ Lin\n\ @version\ 2022.03.26\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ Build\ the\ main\ application\ window\ GUI\ for\ the\ AirbnbViewer.\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application\n
+comment2.params=event
+comment2.target=void\ nextButtonClick(javafx.event.ActionEvent)
+comment2.text=\n\ This\ will\ be\ executed\ when\ the\ nextButton\ is\ clicked.\n\ Shows\ the\ next\ panel\ by\ making\ it\ visible.\n
+comment3.params=event
+comment3.target=void\ prevButtonClick(javafx.event.ActionEvent)
+comment3.text=\n\ This\ will\ be\ executed\ when\ the\ prevButton\ is\ clicked.\n\ Shows\ the\ previous\ panel\ by\ making\ it\ visible.\n
+comment4.params=
+comment4.target=void\ showInvalidPriceRange()
+comment4.text=\n\ Alerts\ the\ user\ that\ the\ price\ range\ they\ selected\ is\ invalid.\n
+comment5.params=event
+comment5.target=void\ checkPriceRange(javafx.event.ActionEvent)
+comment5.text=\n\ Check\ if\ the\ price\ range\ is\ valid,\ enable\ the\ buttons\ if\ it\ is.\n
+comment6.params=str
+comment6.target=int\ getPriceNum(java.lang.String)
+comment6.text=\n\ Converts\ the\ price\ in\ string\ to\ int.\n\ @param\ str\ the\ prcie\ string\ to\ be\ converted\ to\ int\n\ @return\ the\ Integer\ value\ of\ the\ price\ range\ selected\n
+numComments=7

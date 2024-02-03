@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Panel4Engine
+comment0.text=\n\ This\ is\ the\ calculation\ of\ the\ distance\ bteween\ two\ borough's\ high\ street\ by\ using\ haversine\ formula\n\n\ @author\ Tingchen\ Chen\n\ @30/03/2022\n
+comment1.params=
+comment1.target=Panel4Engine()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Panel4Engine\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=lis1\ lis2
+comment3.target=double\ getDistance(AirbnbListing,\ AirbnbListing)
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment4.params=boroughName
+comment4.target=AirbnbListing\ getHighSt(java.lang.String)
+numComments=5

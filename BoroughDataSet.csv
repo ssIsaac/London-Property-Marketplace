@@ -1,0 +1,34 @@
+﻿borough,population,size ,Population_density,reported_crime ,crime_rate,crime_rate_ranking,frequently_visited_place
+Barking and Dagenham ,214107,36.09,5933,18483,0.086326,14,Valence House Museum
+Barnet,399007,86.74,4600,26555,0.066553,26,John Keble Church
+Bexley,249301,60.56,4117,14880,0.059687,31,Joyden's Wood
+Brent,327753,43.24,7580,27080,0.082623,18,Wembley Stadium
+Bromley,332752,150.15,2216,22194,0.066698,25,The Crystal Palace
+Camden ,279516,21.8,12822,28855,0.103232,7,Camden Market
+City of London,35938,2.9,12392,6466,0.179921,2,St.Paul's Cathedral
+Croydon,388563,87,4466,31894,0.082082,19,Croydon Central Library
+Ealing,340341,55.53,6129,27933,0.082074,20,The Questors Theatre
+Enfield,333587,82.2,4058,28415,0.08518,16,Edmonton Green Shopping Centre
+Greenwich,289034,47.35,6104,25037,0.086623,13,St. Alfege Church
+Hackney,280941,19.06,14740,29610,0.105396,5,Hackney Downs
+Hammersmith and Fulham,183544,16.4,11192,19100,0.104062,6,Westfield London
+Haringey ,266357,29.59,9002,28390,0.106586,4,Alexandra Palace
+Harrow,252338,50.47,5000,14460,0.057304,32,Bentley Priory Nature Reserve
+Havering,260651,112.27,2322,16749,0.064258,27,Hornchurch Stadium
+Hillingdon,309014,115.7,2671,24346,0.078786,22,Hillingdon Court 
+Hounslow ,271767,55.98,4855,22555,0.082994,17,Myrtle Avenue
+Islington,248115,14.86,16697,24816,0.100018,8,Emirates Stadium
+Kensington and Chelsea,156864,12.13,12932,18000,0.114749,3,Harrods
+Kingston upon Thames,179142,37.25,4809,10995,0.061376,29,Chessington World of Adventure
+Lambeth,321813,26.82,11999,31362,0.097454,10,London Eye
+Lewisham,305309,35.15,8686,26128,0.085579,15,Broadway Theatre
+Merton,206453,37.61,5489,12841,0.062198,28,Merton Abbey Mills
+Newham,355266,36.22,9809,32828,0.092404,12,Throuds of the Somme
+Redbridge,305658,56.41,5419,23718,0.077597,23,Kenneth More Theatre
+Richmond upon Thames ,198141,57.41,3451,11168,0.056364,33,Hammersmith Bridge
+Southwark,320017,28.85,11092,31379,0.098054,9,Borough Market
+Sutton,207707,43.85,4737,12704,0.061163,30,Grove Park
+Tower Hamlets,331969,19.77,16792,31621,0.095253,11,Tower Bridge
+Waltham Forest,276940,38.82,7134,21881,0.07901,21,Walthamstow Market
+Wandsworth,329735,34.26,9624,24775,0.075136,24,Battersea Park
+Westminster,269848,21.48,12563,49381,0.182996,1,Westminster Abbey
